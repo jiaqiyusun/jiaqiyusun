@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**jiaqiyusun/jiaqiyusun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is <br>Jiaqi Yu</br>, I am a master's degree student in Computer Science and Engineering at IST,  my major study areas are Software Engineering and Artificial Intelligence. Now I will find a job this year, hopefully! ;>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
