@@ -6,7 +6,7 @@ My name is **Jiaqi Yu**, I am a master's degree student in **Computer Science an
 - 🌱 I’m currently learning **TypeScript** and **Swift** because I want to become a Full Stack Developer in the future and a System Engineer later on.
 - 🤔 I'm looking for someone to help with a small negotiation on a project because I have an idea, and it's difficult to do it by myself.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiaqi-yu-sun/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jiaqi Yu Sun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiaqi-yu-sun/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have turtle!
 
